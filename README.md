@@ -14,7 +14,8 @@
 ![](https://github-readme-stats.vercel.app/api?username=ADiTyaRaj8969&theme=highcontrast&hide_border=false&include_all_commits=true&count_private=true)<br/>
 ![](https://github-readme-streak-stats.herokuapp.com/?user=ADiTyaRaj8969&theme=highcontrast&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=ADiTyaRaj8969&theme=highcontrast&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
-
+## LeetCode Stats
+![](https://leetcard.jacoblin.cool/ADiTyA8969?cache=0)
 ## 🏆 GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=ADiTyaRaj8969&theme=radical&no-frame=false&no-bg=false&margin-w=4)
 
@@ -27,4 +28,4 @@
 ---
 [![](https://visitcount.itsvg.in/api?id=ADiTyaRaj8969&icon=5&color=1)](https://visitcount.itsvg.in)
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+
