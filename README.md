@@ -3,7 +3,7 @@
 </h1>
 
 </h1>
-<h3 align="center">"Learning and Building with Code"</h3>
+<h3 align="center">"Simplicity is the soul of efficiency"</h3>
 
 - 📫 Reach me **adivid198986@gmail.com**
 
