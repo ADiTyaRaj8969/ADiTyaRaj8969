@@ -1,4 +1,11 @@
-## Hi there, I'm Aditya Raj👋🏼
+<h1 align="center" style="background-color:#007BFF;color:white;padding:10px;border-radius:10px;">
+  Hey👋🏻, I'm Aditya RAj
+</h1>
+
+</h1>
+<h3 align="center">"Learning and Building with Code"</h3>
+
+- 📫 Reach me **adivid198986@gmail.com**
 
 
 ## 🌐 Socials:
