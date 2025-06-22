@@ -3,7 +3,7 @@
 </h1>
 
 # 💫 About Me:
-🧠 A tech enthusiast and aspiring AI/ML engineer.  <br>🎓 B.Tech CSE student at Marwadi University | Passionate about Deep Learning & Computer Vision  <br>🚀 Always building, learning, and contributing.<br>♟️ State-level Chess Player | Lifelong learner 
+🧠 Tech enthusiast and aspiring AI/ML engineer.  <br>🎓 B.Tech CSE student at Marwadi University | Passionate about Deep Learning & Computer Vision  <br>🚀 Always building, learning, and contributing.<br>♟️ State-level Chess Player | Lifelong learner 
 
 
 ## 🌐 Socials:
