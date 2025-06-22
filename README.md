@@ -29,14 +29,19 @@
 ![](https://github-readme-streak-stats.herokuapp.com/?user=ADiTyaRaj8969&theme=highcontrast&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=ADiTyaRaj8969&theme=highcontrast&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
 
-## 🏆 GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=ADiTyaRaj8969&theme=radical&no-frame=false&no-bg=false&margin-w=4)
+
 
 ### ✍️ Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
 
 ### 🔝 Top Contributed Repo
 ![](https://github-contributor-stats.vercel.app/api?username=ADiTyaRaj8969&limit=5&theme=dark&combine_all_yearly_contributions=true)
+
+<h3 align="center">🚦 Total Visitors</h3>
+<p align="center">
+  <img src="https://profile-counter.glitch.me/ADiTyaRaj8969/count.svg" alt="Visitor Count" />
+</p>
+
 
 ---
 
