@@ -9,6 +9,8 @@
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/aditya-raj-710a5a291/) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:adivid198986@gmail.com) 
 
+## My Coding Stats
+[![Wakatime Stats](https://wakatime.com/badge/user/a6b581ca-4ba1-44f2-b21f-d8dbbba3af00.svg)](https://wakatime.com/@a6b581ca-4ba1-44f2-b21f-d8dbbba3af00)
 
 
 # 💻 Tech Stack:
