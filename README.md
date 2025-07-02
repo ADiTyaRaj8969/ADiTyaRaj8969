@@ -31,10 +31,8 @@
 ### 🔝 Top Contributed Repo
 ![](https://github-contributor-stats.vercel.app/api?username=ADiTyaRaj8969&limit=5&theme=dark&combine_all_yearly_contributions=true)
 
-<h3 align="center">🚦 Total Visitors</h3>
-<p align="center">
-  <img src="https://profile-counter.glitch.me/ADiTyaRaj8969/count.svg" alt="Visitor Count" />
-</p>
+
+
 
 
 
