@@ -31,7 +31,9 @@
 ### 🔝 Top Contributed Repo
 ![](https://github-contributor-stats.vercel.app/api?username=ADiTyaRaj8969&limit=5&theme=dark&combine_all_yearly_contributions=true)
 
-
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=ADiTyaRaj8969&label=Profile%20views&color=0e75b6&style=flat" alt="jahnviaghera" />
+</p>
 
 
 
