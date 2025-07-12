@@ -1,5 +1,5 @@
 <h1 align="center" style="background-color:#007BFF;color:white;padding:10px;border-radius:10px;">
-  Hey👋🏻, I'm Aditya Raj
+Hi, I'm Aditya Raj 👋🏻 – explore my work below.
 </h1>
 
 # 💫 About Me:
