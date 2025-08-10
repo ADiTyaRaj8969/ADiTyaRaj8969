@@ -6,7 +6,7 @@ Hi, I'm Aditya Raj 👋🏻
 🧠 Tech enthusiast and aspiring AI/ML engineer.  <br>🎓 B.Tech ICT student at Marwadi University | Passionate about Deep Learning & Computer Vision  <br>🚀 Always building, learning, and contributing.<br>♟️ State-level Chess Player | Lifelong learner 
 
 
-## 🌐 Socials:
+## 🌐 Socials: 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/aditya-raj-710a5a291/) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:adivid198986@gmail.com) 
 
 ## My Coding Stats
