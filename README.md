@@ -25,7 +25,7 @@ Tech enthusiast and aspiring AI/ML engineer.  <br> B.Tech ICT student at Marwadi
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=ADiTyaRaj8969&label=Profile%20views&color=0e75b6&style=flat" alt="ADiTyaRaj8969" />
-</p>
+</p> 
 
 
 
