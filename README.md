@@ -11,7 +11,6 @@ Gujarat, India
 
 </div>
 
----
 
 ```javascript
 const ADITYA = {
@@ -23,7 +22,7 @@ const ADITYA = {
 };
 ```
 
----
+
 
 ### Projects
 
@@ -36,7 +35,6 @@ const ADITYA = {
 | [EdgeVision](https://github.com/ADiTyaRaj8969/EdgeVision) | Web-based edge detection tool | <img src="https://skillicons.dev/icons?i=html,css,js&theme=dark" height="20"/> |
 | [Paper Defect Detection](https://github.com/ADiTyaRaj8969/Industrial-Paper-Defect-Detection) | Automated quality inspection | <img src="https://skillicons.dev/icons?i=python,opencv&theme=dark" height="20"/> |
 
----
 
 <div align="center">
 
