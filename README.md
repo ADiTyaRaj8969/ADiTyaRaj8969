@@ -15,10 +15,10 @@ Gujarat, India
 ```javascript
 const ADITYA = {
     LOCATION: "Gujarat, India",
-    education: "Marwadi University",
-    experience: ["AI GURU", "IEEE SPS"],
-    skills: ["MERN Stack", "Computer Vision", "Machine Learning"],
-    interests: ["Object Detection", "Image Classification", "Neural Networks"]
+    Education: "Marwadi University",
+    Experience: ["AI GURU", "IEEE SPS"],
+    Skills: ["MERN Stack", "Computer Vision", "Machine Learning"],
+    Interests: ["Object Detection", "Image Classification", "Neural Networks"]
 };
 ```
 
