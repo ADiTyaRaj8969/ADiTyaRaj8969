@@ -19,7 +19,7 @@ const ADITYA = {
     Experience: ["AI GURU", "IEEE SPS"],
     Skills: ["MERN Stack", "Computer Vision", "Machine Learning"],
     Interests: ["Object Detection", "Image Classification", "Neural Networks"]
-};
+}; 
 ```
 
 
