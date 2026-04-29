@@ -48,9 +48,9 @@ const ADITYA = {
 
 
 
-<div align="center">
 
-![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=ADiTyaRaj8969&theme=tokyo-night&hide_border=true)
+
+<div align="center">
 
 [![Wakatime Stats](https://wakatime.com/badge/user/a6b581ca-4ba1-44f2-b21f-d8dbbba3af00.svg)](https://wakatime.com/@a6b581ca-4ba1-44f2-b21f-d8dbbba3af00)
 
