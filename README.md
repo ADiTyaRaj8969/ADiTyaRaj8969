@@ -2,7 +2,7 @@
 
 ## Aditya Raj
 
-**MERN Stack | ML Enthusiast | Computer Vision**
+**ML Enthusiast | Computer Vision | Mern Stack**
 
 Gujarat, India
 
