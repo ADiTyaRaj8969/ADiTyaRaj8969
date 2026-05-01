@@ -28,7 +28,7 @@ const ADITYA = {
 </thead>
 <tbody>
 <tr><td><nobr>ManTarang</nobr></td><td><nobr>AI music via multi-agent LangGraph</nobr></td><td><img src="https://skillicons.dev/icons?i=python,react,nodejs&theme=dark" height="14"/></td><td>https://huggingface.co/spaces/ashu-17/mantarang</td></tr>
-<tr><td><nobr>AskDocs</nobr></td><td><nobr>RAG document Q&A — PDF, DOCX, images</nobr></td><td><img src="https://skillicons.dev/icons?i=python,fastapi,react&theme=dark" height="14"/></td><td>https://github.com/ADiTyaRaj8969/AskDocs</td></tr>
+<tr><td><nobr>AskDocs</nobr></td><td><nobr>RAG document Q&A — PDF, DOCX, images</nobr></td><td><img src="https://skillicons.dev/icons?i=python,fastapi,react&theme=dark" height="14"/></td><td>https://huggingface.co/spaces/aditya-rAj19/AskDocs</td></tr>
 <tr><td><nobr>Cerebrova</nobr></td><td><nobr>MRI brain tumor detection via YOLOv8</nobr></td><td><img src="https://skillicons.dev/icons?i=python,tensorflow&theme=dark" height="14"/></td><td>https://cerebrova-lk7q.onrender.com</td></tr>
 <tr><td><nobr>Stock Predictor</nobr></td><td><nobr>LSTM stock forecasting, 5000+ datapoints</nobr></td><td><img src="https://skillicons.dev/icons?i=python,tensorflow&theme=dark" height="14"/></td><td>https://stockpriceprediction-using-python.onrender.com</td></tr>
 <tr><td><nobr>Rent Collect</nobr></td><td><nobr>Flutter landlord-tenant management app</nobr></td><td><img src="https://skillicons.dev/icons?i=flutter,firebase&theme=dark" height="14"/></td><td>https://github.com/ADiTyaRaj8969/Rent-Collect</td></tr>
