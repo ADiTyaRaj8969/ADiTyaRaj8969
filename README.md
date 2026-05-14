@@ -29,7 +29,7 @@ const ADITYA = {
 <tbody>
 <tr><td><nobr>ManTarang</nobr></td><td><nobr>AI music via multi-agent LangGraph</nobr></td><td><img src="https://skillicons.dev/icons?i=python,react,nodejs&theme=dark" height="14"/></td><td>https://huggingface.co/spaces/ashu-17/mantarang</td></tr>
 
-<tr><td><nobr>AskDocs</nobr></td><td><nobr>RAG document Q&A — PDF, DOCX, images</nobr></td><td><img src="https://skillicons.dev/icons?i=python,fastapi,react&theme=dark" height="14"/></td><td>https://huggingface.co/spaces/aditya-rAj19/AskDocs</td></tr>
+<tr><td><nobr>AskDocs</nobr></td><td><nobr>RAG document Q&A — PDF, DOCX, images</nobr></td><td><img src="https://skillicons.dev/icons?i=python,fastapi,react&theme=dark" height="14"/></td><td>https://aditya-raj19-askdocs.hf.space/</td></tr>
 
 <tr><td><nobr>Stock Predictor</nobr></td><td><nobr>LSTM stock forecasting, 5000+ datapoints</nobr></td><td><img src="https://skillicons.dev/icons?i=python,tensorflow&theme=dark" height="14"/></td><td>https://stockpriceprediction-using-python.onrender.com</td></tr>
 
