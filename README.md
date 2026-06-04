@@ -79,7 +79,7 @@ const ADITYA = {
 
 <tr>
 <td><nobr>FaceSWAP</nobr></td>
-<td><nobr>AI-powered face swapping with seamless blending, alignment, and skin tone matching</nobr></td>
+<td><nobr>AI-powered face swapping </nobr></td>
 <td><img src="https://skillicons.dev/icons?i=python,opencv,gradio&theme=dark" height="14"/></td>
 <td>https://aditya-raj19-faceswap.hf.space/</td>
 </tr>
