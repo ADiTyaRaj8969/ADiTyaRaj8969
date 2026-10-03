@@ -43,6 +43,20 @@ const ADITYA = {
 </tr>
 
 <tr>
+<td><nobr>Self-Healing RAG</nobr></td>
+<td><nobr>RAG that critiques its answers & retries</nobr></td>
+<td><img src="https://skillicons.dev/icons?i=python,fastapi&theme=dark" height="14"/></td>
+<td>https://self-healing-rag-9zmj.onrender.com</td>
+</tr>
+
+<tr>
+<td><nobr>Hint Tutor</nobr></td>
+<td><nobr>AI math tutor with leak-proof hint ladder</nobr></td>
+<td><img src="https://skillicons.dev/icons?i=python,fastapi&theme=dark" height="14"/></td>
+<td>https://hint-tutor-wds3.onrender.com</td>
+</tr>
+
+<tr>
 <td><nobr>Stock Predictor</nobr></td>
 <td><nobr>LSTM stock forecasting, 5000+ datapoints</nobr></td>
 <td><img src="https://skillicons.dev/icons?i=python,tensorflow&theme=dark" height="14"/></td>
