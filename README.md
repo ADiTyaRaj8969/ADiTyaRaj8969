@@ -29,10 +29,10 @@ const ADITYA = {
 <tbody>
 
 <tr>
-<td><nobr>ManTarang</nobr></td>
-<td><nobr>AI music via multi-agent LangGraph</nobr></td>
-<td><img src="https://skillicons.dev/icons?i=python,react,nodejs&theme=dark" height="14"/></td>
-<td>https://huggingface.co/spaces/ashu-17/mantarang</td>
+<td><nobr>Self-Healing RAG</nobr></td>
+<td><nobr>RAG that critiques its answers & retries</nobr></td>
+<td><img src="https://skillicons.dev/icons?i=python,fastapi&theme=dark" height="14"/></td>
+<td>https://self-healing-rag-9zmj.onrender.com</td>
 </tr>
 
 <tr>
@@ -40,13 +40,6 @@ const ADITYA = {
 <td><nobr>RAG document Q&A - PDF, DOCX, images</nobr></td>
 <td><img src="https://skillicons.dev/icons?i=python,fastapi,react&theme=dark" height="14"/></td>
 <td>https://aditya-raj19-askdocs.hf.space/</td>
-</tr>
-
-<tr>
-<td><nobr>Self-Healing RAG</nobr></td>
-<td><nobr>RAG that critiques its answers & retries</nobr></td>
-<td><img src="https://skillicons.dev/icons?i=python,fastapi&theme=dark" height="14"/></td>
-<td>https://self-healing-rag-9zmj.onrender.com</td>
 </tr>
 
 <tr>
@@ -110,6 +103,13 @@ const ADITYA = {
 <td><nobr>Industrial paper defect inspection</nobr></td>
 <td><img src="https://skillicons.dev/icons?i=python,opencv&theme=dark" height="14"/></td>
 <td>https://github.com/ADiTyaRaj8969/Industrial-Paper-Defect-Detection</td>
+</tr>
+
+<tr>
+<td><nobr>ManTarang</nobr></td>
+<td><nobr>AI music via multi-agent LangGraph</nobr></td>
+<td><img src="https://skillicons.dev/icons?i=python,react,nodejs&theme=dark" height="14"/></td>
+<td>https://huggingface.co/spaces/ashu-17/mantarang</td>
 </tr>
 
 </tbody>
