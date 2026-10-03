@@ -71,13 +71,6 @@ const ADITYA = {
 </tr>
 
 <tr>
-<td><nobr>Rent Collect</nobr></td>
-<td><nobr>Flutter landlord-tenant management app</nobr></td>
-<td><img src="https://skillicons.dev/icons?i=flutter,firebase&theme=dark" height="14"/></td>
-<td>https://github.com/ADiTyaRaj8969/Rent-Collect</td>
-</tr>
-
-<tr>
 <td><nobr>Emotion Recognition</nobr></td>
 <td><nobr>CNN facial emotion detection, 7 classes</nobr></td>
 <td><img src="https://skillicons.dev/icons?i=python,tensorflow,opencv&theme=dark" height="14"/></td>
@@ -92,6 +85,20 @@ const ADITYA = {
 </tr>
 
 <tr>
+<td><nobr>ManTarang</nobr></td>
+<td><nobr>AI music via multi-agent LangGraph</nobr></td>
+<td><img src="https://skillicons.dev/icons?i=python,react,nodejs&theme=dark" height="14"/></td>
+<td>https://huggingface.co/spaces/ashu-17/mantarang</td>
+</tr>
+
+<tr>
+<td><nobr>Rent Collect</nobr></td>
+<td><nobr>Flutter landlord-tenant management app</nobr></td>
+<td><img src="https://skillicons.dev/icons?i=flutter,firebase&theme=dark" height="14"/></td>
+<td>https://github.com/ADiTyaRaj8969/Rent-Collect</td>
+</tr>
+
+<tr>
 <td><nobr>Safety Detection</nobr></td>
 <td><nobr>Real-time PPE helmet & vest compliance</nobr></td>
 <td><img src="https://skillicons.dev/icons?i=python,pytorch&theme=dark" height="14"/></td>
@@ -103,13 +110,6 @@ const ADITYA = {
 <td><nobr>Industrial paper defect inspection</nobr></td>
 <td><img src="https://skillicons.dev/icons?i=python,opencv&theme=dark" height="14"/></td>
 <td>https://github.com/ADiTyaRaj8969/Industrial-Paper-Defect-Detection</td>
-</tr>
-
-<tr>
-<td><nobr>ManTarang</nobr></td>
-<td><nobr>AI music via multi-agent LangGraph</nobr></td>
-<td><img src="https://skillicons.dev/icons?i=python,react,nodejs&theme=dark" height="14"/></td>
-<td>https://huggingface.co/spaces/ashu-17/mantarang</td>
 </tr>
 
 </tbody>
